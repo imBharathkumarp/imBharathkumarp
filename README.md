@@ -1,6 +1,4 @@
 ## Hi there, I'm Bharath 👋
 
 - 🌱 I’m currently learning Python 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
 - 📫 How to reach me: bharath2003kumarp@gmail.com
