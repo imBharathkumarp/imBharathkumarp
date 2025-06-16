@@ -1,6 +1,7 @@
 # <h1 align="center">Hi👋, I'm Bharath</h1>
 <h3 align="center">Curiosity-Driven Developer | Agentic AI Enthusiast | MERN Stack Explorer</h3>
 
+![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=imBharathkumarp.imBharathkumarp)
 ---
 
  ## 💫 About Me:
