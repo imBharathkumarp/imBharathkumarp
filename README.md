@@ -5,7 +5,7 @@
 
 
  ### 💫 About Me:
-🌏 All my projects are here → [Projects](https://github.com/imBharathkumarp?tab=repositories)<br>🎓 B.E. in **Artificial Intelligence and Data Science**<br>🧠 I’m currently learning **Python, Data Structures & Algorithms**<br>🤖 Exploring **Machine Learning, AI Agents & LLMs** <br>🚀 Contributed to **SSoC'25**, **GSSoC'25** and **OSCI'25**<br>📌 Check out my [Portfolio](https://myportfoli0o.netlify.app/) <br>📫 Reach me at imbharathkumarp@gmail.com
+🌏 All my projects are here → [Projects](https://github.com/imBharathkumarp?tab=repositories)<br>🎓 M.sc in **Artificial Intelligence and Data Engineering**<br>🧠 I’m currently learning **Python, Data Structures & Algorithms**<br>🤖 Exploring **Machine Learning, AI Agents & LLMs** <br>🚀 Contributed to **SSoC'25**, **GSSoC'25** and **OSCI'25**<br>📌 Check out my [Portfolio](https://myportfoli0o.netlify.app/) <br>📫 Reach me at imbharathkumarp@gmail.com
 
 ## 🛠 Tech Stack  
 
